@@ -7,10 +7,7 @@
 <body>
 	<p>
 		<?php
-		echo "Wyświetl to!";
-		echo "Wyświeetl to!";
-		echo "e to!";
-		echo "ddddddd to!";
+		echo "Wersja 2 to!";
 
 		?>
 	</p>
