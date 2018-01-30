@@ -8,10 +8,9 @@
 	<p>
 		<?php
 		echo "Wyświetl to!";
-		echo "Wyświetl to!";
-		echo "Wyświetl to!";
-		echo "Wyświetl to!";
-		echo "Wyświetl to!";
+		echo "Wyświeetl to!";
+		echo "e to!";
+		echo "ddddddd to!";
 
 		?>
 	</p>
