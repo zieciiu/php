@@ -8,6 +8,10 @@
 	<p>
 		<?php
 		echo "Wyświetl to!";
+		echo "Wyświetl to!";
+		echo "Wyświetl to!";
+		echo "Wyświetl to!";
+		echo "Wyświetl to!";
 
 		?>
 	</p>
